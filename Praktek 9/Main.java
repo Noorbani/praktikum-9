@@ -7,7 +7,7 @@ public class Main {
     
         Petugas petugas1 = new Petugas("Alex", "P001");
         Peminjam peminjam1 = new Mahasiswa();
-        peminjam1.setNamaPeminjam("Huda");
+        peminjam1.setNamaPeminjam("Adam");
         peminjam1.setKodePeminjam("M001");
         
        peminjam1.doLogin();
